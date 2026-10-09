@@ -1,0 +1,1 @@
+{"name":"saas-api-key-rotation","private":true,"type":"module","scripts":{"typecheck":"tsc --noEmit","start":"tsx src/run.ts","test":"tsx test/key_rotation.test.ts"},"dependencies":{"zod":"^3.23.8"},"devDependencies":{"tsx":"^4.19.0","typescript":"^5.6.3"}}
